@@ -1,0 +1,10 @@
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\bin\Debug\MenuRecursion.exe.config
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\bin\Debug\MenuRecursion.exe
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\bin\Debug\MenuRecursion.pdb
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\obj\Debug\MenuRecursion.csproj.AssemblyReference.cache
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\obj\Debug\MenuRecursion.Form1.resources
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\obj\Debug\MenuRecursion.Properties.Resources.resources
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\obj\Debug\MenuRecursion.csproj.GenerateResource.cache
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\obj\Debug\MenuRecursion.csproj.CoreCompileInputs.cache
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\obj\Debug\MenuRecursion.exe
+C:\Users\M.Helaly\source\repos\MenuRecursion\MenuRecursion\obj\Debug\MenuRecursion.pdb
